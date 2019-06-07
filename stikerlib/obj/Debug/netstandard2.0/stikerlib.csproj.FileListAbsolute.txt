@@ -1,0 +1,9 @@
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\obj\Debug\netstandard2.0\stikerlib.csprojAssemblyReference.cache
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\obj\Debug\netstandard2.0\stikerlib.csproj.CoreCompileInputs.cache
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\obj\Debug\netstandard2.0\stikerlib.AssemblyInfoInputs.cache
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\obj\Debug\netstandard2.0\stikerlib.AssemblyInfo.cs
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\bin\Debug\netstandard2.0\stikerlib.deps.json
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\bin\Debug\netstandard2.0\stikerlib.dll
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\bin\Debug\netstandard2.0\stikerlib.pdb
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\obj\Debug\netstandard2.0\stikerlib.dll
+C:\Users\askol\Downloads\ubuntu\code\StikerProj\stikerlib\obj\Debug\netstandard2.0\stikerlib.pdb
